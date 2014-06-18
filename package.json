@@ -1,0 +1,27 @@
+{
+  "name": "flickr-recent",
+  "version": "0.0.0",
+  "description": "Get recent uploaded photos on Flickr",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "flickr",
+    "photography",
+    "api"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/flickr-recent.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD",
+  "devDependencies": {
+    "prova": "^1.12.1",
+    "with-env": "^0.1.0"
+  },
+  "dependencies": {
+    "flickr-client": "0.0.3"
+  }
+}
