@@ -1,6 +1,6 @@
 ## flickr-recent
 
-Get recent uploaded photos on Flickr
+Get recent uploaded photos on Flickr. Demo: [requirebin.com/embed?gist=6d64be46a59565c7db6d](http://requirebin.com/embed?gist=6d64be46a59565c7db6d)
 
 ## Install
 
